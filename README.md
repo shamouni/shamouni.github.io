@@ -1,1 +1,1 @@
-This is a respository for my portfolio html page
+This is just my portfolio html page
